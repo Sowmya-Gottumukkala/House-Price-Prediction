@@ -14,6 +14,7 @@ This project implements a linear regression model in Python to predict house pri
 
 - *Jupyter Notebook, Visual Studio Code, and PyCharm:* IDEs utilized for development.
 
+
 ## Dataset
 
 The dataset used for training and testing the model includes relevant features such as square footage, number of bedrooms, location, and other factors affecting house prices.
@@ -41,6 +42,8 @@ The dataset used for training and testing the model includes relevant features s
 3. Open the Jupyter Notebook or Python script in your preferred IDE (Jupyter Notebook, Visual Studio Code, or PyCharm).
 
 4. Run the script to execute the house price prediction model.
+
+![house price prediction](https://github.com/Sowmya-Gottumukkala/House-Price-Prediction/assets/127223176/b7488b21-cdde-4e65-8f50-8b97daaad08f)
 
 ## Future Enhancements
 
