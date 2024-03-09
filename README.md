@@ -14,6 +14,8 @@ This project implements a linear regression model in Python to predict house pri
 
 - *Jupyter Notebook, Visual Studio Code, and PyCharm:* IDEs utilized for development.
 
+![house price prediction](https://github.com/Sowmya-Gottumukkala/House-Price-Prediction/assets/127223176/b7488b21-cdde-4e65-8f50-8b97daaad08f)
+
 
 ## Dataset
 
@@ -43,7 +45,12 @@ The dataset used for training and testing the model includes relevant features s
 
 4. Run the script to execute the house price prediction model.
 
-![house price prediction](https://github.com/Sowmya-Gottumukkala/House-Price-Prediction/assets/127223176/b7488b21-cdde-4e65-8f50-8b97daaad08f)
+![image](https://github.com/Sowmya-Gottumukkala/House-Price-Prediction/assets/127223176/c543aad1-97d4-4b9c-b200-4124a97325d2)
+
+
+![image2](https://github.com/Sowmya-Gottumukkala/House-Price-Prediction/assets/127223176/9c940bad-0c8f-4e05-be3f-f7371520a9da)
+
+
 
 ## Future Enhancements
 
